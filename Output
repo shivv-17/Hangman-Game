@@ -1,1 +1,65 @@
+Sample Output 1:
 
+Choose difficulty (easy/medium/hard): medium
+
+Word: _ _ _ _ _ _ _
+Lives remaining: 9
+Guess a letter, or type the whole word: c
+Wrong!
+
+Word: _ _ _ _ _ _ _
+Lives remaining: 8
+Guess a letter, or type the whole word: t
+Wrong!
+
+Word: _ _ _ _ _ _ _
+Lives remaining: 7
+Guess a letter, or type the whole word: m
+Correct!
+
+Word: _ _ _ _ m _ _
+Lives remaining: 6
+Guess a letter, or type the whole word: hangman
+
+Sample Output 2: 
+
+Choose difficulty (easy/medium/hard): hard
+
+Word: _ _ _ _ _ _ _ _ _ 
+Lives remaining: 11
+Guess a letter, or type the whole word: b
+Wrong!
+
+Word: _ _ _ _ _ _ _ _ _ 
+Lives remaining: 10
+Guess a letter, or type the whole word: s
+Wrong!
+
+Word: _ _ _ _ _ _ _ _ _ 
+Lives remaining: 9
+Guess a letter, or type the whole word: e
+Correct!
+
+Word: _ e _ e _ _ _ e _ 
+Lives remaining: 8
+Guess a letter, or type the whole word: l
+Correct!
+
+Word: _ e _ e l _ _ e _ 
+Lives remaining: 7
+Guess a letter, or type the whole word: v
+Correct!
+
+Word: _ e v e l _ _ e _ 
+Lives remaining: 6
+Guess a letter, or type the whole word: o
+Correct!
+
+Word: _ e v e l o _ e _ 
+Lives remaining: 5
+Guess a letter, or type the whole word: p
+Correct!
+
+Word: _ e v e l o p e _ 
+Lives remaining: 4
+Guess a letter, or type the whole word: developer
